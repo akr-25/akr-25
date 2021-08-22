@@ -1,12 +1,12 @@
 # Hi, I'm Aman 
------------------------------------------------------------
+
 ## About Me 
 
-> I’m undergraduate pursuing B.Tech in Mathematics and Computing with a minor in Product Design at Indian Institute of Technology, Guwahati.  
+- I’m undergraduate pursuing B.Tech in Mathematics and Computing with a minor in Product Design at Indian Institute of Technology, Guwahati.  
 
-> Being a pseudo Sophomore, currently I am trying to explore different fields and find my passion (is it too late?)! 
+- Being a pseudo Sophomore, currently I am trying to explore different fields and find my passion (is it too late?)! 
 
-> I like to game, watch anime , web-series , movies .... anything which eyes can see :) 
+- I like to game, watch anime , web-series , movies .... anything which eyes can see :) 
 
 ------------------------------------------------------------
 
