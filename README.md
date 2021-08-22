@@ -1,4 +1,8 @@
-# Hi, I'm Aman 
+## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>  Hi, I'm Aman 
+
+
+![profile count](https://komarev.com/ghpvc/?username=akr-25&color=red)&nbsp; [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/akr-25?label=follow&style=social)](https://github.com/akr-25)&nbsp; ![version :22.08.2021](https://img.shields.io/badge/version-22.08.2021-informational) &nbsp;
+
 
 - I’m undergraduate pursuing B.Tech in Mathematics and Computing with a minor in Product Design at Indian Institute of Technology, Guwahati.  
 
@@ -8,7 +12,7 @@
 
 ------------------------------------------------------------
 
-## TODO LIST
+### Todo list
 - [x] Learn basic web and app development 
 - [ ] Create a portfolio website 
 - [ ] Create a AI model to predict the next anime I should watch
@@ -16,13 +20,10 @@
 
 -------------------------------------------------------------
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-
-
-![profile count](https://komarev.com/ghpvc/?username=akr-25&color=red)&nbsp; [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/akr-25?label=follow&style=social)](https://github.com/akr-25)&nbsp; ![version :22.08.2021](https://img.shields.io/badge/version-22.08.2021-informational) &nbsp;
-
-
-![Aman Kumar Stats](https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)&nbsp; 
+### Github Stats
+<center>
+<img src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+</center>
 
 ---
 
