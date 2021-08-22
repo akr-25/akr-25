@@ -4,13 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=akr-25.akr-25)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 
 ![profile count](https://komarev.com/ghpvc/?username=akr-25&color=red)&nbsp; [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/akr-25?label=follow&style=social)](https://github.com/akr-25)&nbsp; ![version :22.08.2021](https://img.shields.io/badge/version-22.08.2021-informational) &nbsp;
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### 🛠 &nbsp;Tech Stack
 
