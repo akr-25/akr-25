@@ -21,9 +21,9 @@
 -------------------------------------------------------------
 
 ### Github Stats
-<center>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-</center>
+</div>
 
 ---
 
