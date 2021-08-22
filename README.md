@@ -1,20 +1,18 @@
 # Hi, I'm Aman 
 
-## About Me 
-
 - I’m undergraduate pursuing B.Tech in Mathematics and Computing with a minor in Product Design at Indian Institute of Technology, Guwahati.  
 
-- Being a pseudo Sophomore, currently I am trying to explore different fields and find my passion (is it too late?)! 
+- Being a pseudo Sophomore, currently I am trying to explore different fields and find my passion (is it too👀 late?)! 
 
-- I like to game, watch anime , web-series , movies .... anything which eyes can see :) 
+- I like to watch anime, play games.
 
 ------------------------------------------------------------
 
 ## TODO LIST
 - [x] Learn basic web and app development 
-- [ ] Create a portfolio website
-- [ ] Learn AI
-- [ ] Learn BlockChain
+- [ ] Create a portfolio website 
+- [ ] Create a AI model to predict the next anime I should watch
+- [ ] Learn the math behind Cryptography(BlockChain)
 
 -------------------------------------------------------------
 
