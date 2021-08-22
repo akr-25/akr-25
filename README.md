@@ -1,7 +1,7 @@
 ## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>  Hi, I'm Aman 
 
 
-![profile count](https://shields-io-visitor-counter.herokuapp.com/badge?page=akr-25.akr-25&label=Profile%20Views&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)&nbsp; [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/akr-25?label=follow&style=for-the-badge)](https://github.com/akr-25)&nbsp; ![version :22.08.2021](https://img.shields.io/badge/version-22.08.2021-informational?style=for-the-badge) &nbsp;
+![profile count](https://shields-io-visitor-counter.herokuapp.com/badge?page=akr-25.akr-25&label=Profile%20Views&labelColor=0d1117&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)&nbsp; [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/akr-25?label=follow&style=for-the-badge)](https://github.com/akr-25)&nbsp; ![version :22.08.2021](https://img.shields.io/badge/version-22.08.2021-informational?style=for-the-badge) &nbsp;
 
 
 - I’m undergraduate pursuing B.Tech in Mathematics and Computing with a minor in Product Design at Indian Institute of Technology, Guwahati.  
