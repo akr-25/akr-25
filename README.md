@@ -14,20 +14,20 @@
 
 ### Todo list
 - [x] Learn basic web and app development 
-- [ ] Create a portfolio website 
+- [ ] Create a portfolio website (currently working on it!)
 - [ ] Create a AI model to predict the next anime I should watch
 - [ ] Learn the math behind Cryptography(BlockChain)
 
 -------------------------------------------------------------
 
 ### Github Stats
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&locale=en" alt="amankr" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akr-25&show_icons=true&locale=en" alt="akr-25" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akr-25&show_icons=true&locale=en" alt="akr-25" /></p>
+<p align="center">&nbsp;<img style="display:flex; align-items:center" src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&locale=en" alt="amankr" />!!! No, I don't code in CSS and C# all day</p>
+
+<div style="height: 40px">
 </div>
 
 ---
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;   
