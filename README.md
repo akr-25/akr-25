@@ -1,7 +1,7 @@
 ## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>  Hi, I'm Aman 
 
 
-![profile count](https://shields-io-visitor-counter.herokuapp.com/badge?page=akr-25.akr-25&label=Profile%20Views&labelColor=555555&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)&nbsp; [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/akr-25?label=follow&style=for-the-badge)](https://github.com/akr-25)&nbsp; ![version :22.08.2021](https://img.shields.io/badge/version-22.08.2021-informational?style=for-the-badge) &nbsp;
+![profile count](https://shields-io-visitor-counter.herokuapp.com/badge?page=akr-25.akr-25&label=Profile%20Views&labelColor=555555&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)&nbsp; [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/akr-25?label=follow&style=for-the-badge)](https://github.com/akr-25)&nbsp; ![version :08.09.2021](https://img.shields.io/badge/version-08.09.2021-informational?style=for-the-badge) &nbsp;
 
 
 - I’m undergraduate pursuing B.Tech in Mathematics and Computing with a minor in Product Design at Indian Institute of Technology, Guwahati.  
@@ -13,21 +13,30 @@
 ------------------------------------------------------------
 
 ### Todo list
-- [x] Learn basic web and app development 
-- [ ] Create a portfolio website (currently working on it!)
-- [ ] Create a AI model to predict the next anime I should watch
-- [ ] Learn the math behind Cryptography(BlockChain)
+- :heavy_check_mark: Learn basic web and app development 
+- :yellow_circle: Create a portfolio website (currently working on it!)
+- Create a AI model to predict the next anime I should watch
+- Learn the math behind Cryptography(BlockChain)
 
 -------------------------------------------------------------
 
 ### Github Stats
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akr-25&show_icons=true&locale=en" alt="akr-25" /></p>
-<p align="center">&nbsp;<img style="display:flex; align-items:center" src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&locale=en" alt="amankr" />!!! No, I don't code in CSS and C# all day</p>
+<p align="center">!!! No, I don't code in CSS and C# all day 😂😂!!!<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akr-25&show_icons=true&locale=en" alt="akr-25" /></p>
+<p align="center">&nbsp;<img style="display:flex; align-items:center" src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&locale=en" alt="amankr" /></p>
+<br>   
+<br>    
 
-<div style="height: 40px">
-</div>
+-------------------------------------------------
 
----
+### Showcase
+<p align="center"><img align="left" width="20%" src="https://raw.githubusercontent.com/akr-25/instagram/v3.0/screenshots/Instagram%20Profile.png" alt="insta" /></p>
+<p align="center">&nbsp;<img style="display:flex; align-items:center" width="60%" src="https://raw.githubusercontent.com/akr-25/StackOverflow-Clone/main/screenshots/Screenshot%202021-09-01%20220141.jpg" alt="stack" /></p>
+<br>   
+<br>    
+
+These two are my favourite projects. I learned a lot about Web Development while making [IITG Stack Overflow](https://github.com/akr-25/StackOverflow-Clone) and the [Instagram Clone](https://github.com/akr-25/instagram) sparked my interest in App Development.
+
+--------------------------------------------------
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;   
