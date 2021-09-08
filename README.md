@@ -22,7 +22,8 @@
 
 ### Github Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akr-25&show_icons=true&locale=en" alt="amankr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akr-25&show_icons=true&locale=en" alt="akr-25" /></p>
 </div>
 
 ---
